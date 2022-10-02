@@ -1,8 +1,8 @@
-package com.company;
+package Loop;
 
-public class Main {
-
+public class LoopExamplesTask {
     public static void main(String[] args) {
 
     }
 }
+
